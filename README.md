@@ -1,7 +1,5 @@
 # Assignment2
 second task
-# Assignment2
-second task
 # Assignment 2: Album Tracker 2.0 by YOURNAME
 
 _Edit this README, replacing this line and above with your own assignment details._  
